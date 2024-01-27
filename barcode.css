@@ -1,0 +1,87 @@
+body{
+    background-color:black;
+}
+.d1{
+    margin: auto;
+    background-color:#DDDDDD;
+    width: 375px;
+    height: 812px;
+    top: -1934px;
+    border-radius: 30px;
+}
+.d2{
+display: flex;
+flex-direction: row;
+width: 343px;
+height: 18px;
+margin-left: 16px;
+justify-content: space-between;
+padding-top: 16px;
+}
+.d2 p{
+    width: 35.06px;
+    height: 18px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.d2 ul{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+nav li{
+    list-style: none;
+    display: inline-block;
+}
+.d3{
+display: flex;
+flex-direction: row;
+
+}
+a:hover{
+    color: red;
+}
+a:link{
+ color: blue;
+}
+a{
+    text-decoration: none;
+}
+#i1{
+    width: 24px;
+    height: 24px;
+    margin: 26px 40px 640px 0px;
+
+
+}
+#i2{
+    width: 28px;
+    height: 28px;
+    margin: 0px 40px 60px 27px ;
+    transform: rotate(90deg);
+}
+.d4{
+    display: flex;
+    flex-direction: column;
+}
+#i3{
+    width: 130px;
+    height: 400px;
+    margin:172px 31px 26px 0px;
+   
+}
+#i5{
+width: 50px;
+height: 255px;
+background-color: white;
+border-radius: 15px;
+}
+.id1{
+    margin: 245px 41px 278px 60px; 
+    width: 50px;
+    height: 255px;
+    background-color: white;
+    border-radius: 15px;
+}
+.id1 p{
+    transform: rotate(90deg);
+}

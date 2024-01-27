@@ -1,0 +1,159 @@
+body{
+    background-color:black;
+}
+.d1{
+    margin: auto;
+    background-color:white;
+    width: 375px;
+    height: 812px;
+    top: -1934px;
+    border-radius: 30px;
+}
+.d2{
+display: flex;
+flex-direction: row;
+width: 343px;
+height: 18px;
+margin-left: 16px;
+justify-content: space-between;
+padding-top: 16px;
+}
+.d2 p{
+    width: 35.06px;
+    height: 18px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.d2 ul{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+nav li{
+    list-style: none;
+    display: inline-block;
+}
+.d3{
+    width: 375px;
+height: 60px;
+margin-top: 8px;
+margin-bottom: 12px;
+display: flex;
+flex-direction: row;
+
+}
+.d3 h3{
+    width: 180px;
+height: 28px;
+font-family: DM Sans;
+font-size: 24px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: center;
+margin: 16px 97px 16px 0px;
+
+}
+.d4{
+    width: 375px;
+    height: 8px;
+    background-color:#EEF0F3;
+}
+#i1{
+    width: 24px;
+    height: 24px;
+    margin: 18px 50px 18px 24px;
+}
+.d5{
+    width: 375px;
+    height: 84px;
+    
+}
+#i3{
+    width: 118px;
+    margin: 8px 233px 0px 24px;
+    height: 24px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+}
+#i2{
+    width: 62px;
+    padding-top: 12px;
+    
+    margin: 0px 288px 0px 25px;
+    height: 20px;
+font-family: DM Sans;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.d6{
+    width: 327px;
+height: 1px;
+margin: 0px 24px 20px 24px;
+background-color: #665AF0;
+}
+.d7{
+    width: 375px;
+    height: 368px;
+    background-color: #EEF0F3;
+}
+.d8{
+    width: 375px;
+    height: 70px;
+}
+
+#i7{
+    width: 24px;
+    height: 24px;
+    margin: 20px 71px 0px 34px;
+}
+#i8{
+    width: 24px;
+    height: 24px;
+    margin: 20px 70px 0px 0px;
+}
+a:hover{
+    color: red;
+   
+    
+}
+a:link{
+ color: blue;
+}
+a{
+    text-decoration: none;
+}
+#i9{
+    width: 24px;
+    height: 24px;
+    margin: 20px 70px 0px 0px;
+}
+#i10{
+    margin: 20px 34px 0px 0px;
+    width: 24px;
+    height: 24px;
+}
+#i11{
+    width: 134px;
+    height: 5px;
+    margin: 13px 120px 8px 121px;
+}
+#i0{
+    display: flex;
+    flex-direction: row;
+}
+.d7 input{
+    width: 327px;
+    height: 50px;
+    margin: 56px 24px 262px 24px;
+    background-color: blue;
+    color: white;
+    border-radius: 15px;
+}

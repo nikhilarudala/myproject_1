@@ -1,0 +1,141 @@
+body{
+    background-color:black;
+}
+
+.d1{
+    margin: auto;
+    background-color: white;
+    width: 375px;
+    height: 812px;
+    top: -1934px;
+    border-radius: 30px;
+}
+.l1{
+    width: 375px;
+    height: 78px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 18px;
+    margin-bottom:8px;
+}
+.l1 img{
+width: 24px;
+height: 24px;
+padding-top: 25px;
+padding-left: 24px;
+flex-direction: row;
+}
+.l1 h3{
+width:60px;
+height: 28px;
+padding-top:25px;
+padding-right:157px;
+padding-bottom:25px;
+padding-left:110px;
+margin: 0px;
+font-family: DM Sans;
+flex-direction: row;
+}
+.d2{
+display: flex;
+flex-direction: row;
+width: 343px;
+height: 18px;
+margin-top: 16px;
+margin-left: 16px;
+justify-content: space-between;
+}
+li{
+    list-style: none;
+    display: inline-block;
+}
+a:hover{
+    color: red;
+}
+a:link{
+ color: blue;
+}
+a{
+    text-decoration: none;
+}
+
+
+.l2{
+width: 327px;
+height: 340px;
+margin-left: 24px;
+margin-top: 0px;
+}
+/*text*/
+#l1{
+    width: 41px;
+    height: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 14px;
+    text-align: center;
+    margin-left: 0px;
+}
+#l2{
+width: 62px;
+height: 20px;
+margin-top: 28px;
+margin-bottom: 0px;
+text-align: center;
+font-weight: 400px;
+font-size: 14px;
+line-height: 20px;
+margin-left: 0px;
+}
+#l3{
+    width: 90px;
+height: 20px;
+margin-top: 8px;
+margin-left: 0px
+
+}
+#l4{
+    margin:8px 0px 0px 106px;
+    width: 107px;
+    height:20px;
+}
+#l5{
+    width: 212px;
+    height:26px;
+    margin: 0px 57px 0px 58px;
+}
+/*input tags*/
+#t1{
+width: 319px;
+height: 42px;
+margin-right: 24px;
+margin-top: 8px;
+border-radius: 10px;
+font-weight:400px;
+font-size:13px;
+line-height:20px;
+}
+#t3{
+    width:16px;
+    height:16px;
+    margin: 10px 2px 0px 0px;
+    border: 1px;
+    border-radius: 5px;
+}
+#t4{
+    width: 327px;
+    height: 50px;
+    margin:40px 0px 16px 0px ;
+    border-radius: 10px;
+    background-color: #665AF0;
+}
+.d3{
+    display: flex;
+    flex-direction: row;
+    height: 20px;
+}
+#i2{
+    margin-top: 59px;
+    border-radius: 0px 0px 30px 30px;
+}

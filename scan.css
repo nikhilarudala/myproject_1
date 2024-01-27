@@ -1,0 +1,156 @@
+body{
+    background-color:black;
+}
+.d1{
+    margin: auto;
+    background-color:white;
+    width: 375px;
+    height: 812px;
+    top: -1934px;
+    border-radius: 30px;
+}
+.d2{
+    display: flex;
+    flex-direction: row;
+    width: 343px;
+    height: 18px;
+    margin-top: 16px;
+    margin-left: 16px;
+    justify-content: space-between;
+}
+li{
+    list-style: none;
+    display: inline-block;
+}
+.d3{
+    width: 375px;
+    height:78px;
+    margin-top: 18px;
+    display: flex;
+    flex-direction: row;
+}
+.d3 img{
+    width:24px;
+    height:24px;
+    margin:25px 0px 29px 24px;
+}
+a:hover{
+    color: red;
+}
+a:link{
+ color: blue;
+}
+a{
+    text-decoration: none;
+}
+.d3 h3{
+    margin: 25px 146px 25px 98px ;
+    color: #232440;
+font-family: DM Sans;
+font-size: 24px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: center;
+width: 83px;
+height: 28px;
+
+}
+.d4{
+    width: 268px;
+    height: 57px;
+    margin: 12px 83px 0px 24px;
+}
+.d4 h3{
+font-family: DM Sans;
+font-size: 24px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+width: 207px;
+height: 28px;
+margin-top: 0px;
+margin-left: 0px;
+margin-bottom: 0px;
+}
+.d4 p{
+font-family: DM Sans;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+font-weight: 268px;
+height: 20px;
+margin-top: 9px;
+}
+.d5{
+   width: 327px;
+   height: 420px;
+   margin-top: 20px;
+   margin-left: 24px; 
+}
+.d5 #i1{
+    padding: 53px 49px 0px 40px;
+    width:240px;
+    height: 268px;
+}
+.d6{
+    display: flex;
+    flex-direction: row;
+}
+.d6 #i2{
+    width: 20px;
+    height: 20px;
+    margin: 38px 0px 42px 49px;
+}
+.d6 p{
+width: 58px;
+height: 20px;
+margin-top: 42px;
+margin-left: 4px;
+font-family: DM Sans;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: center;
+}
+.d6 #i3{
+    width: 16.67px;
+    height: 16.67px;
+    margin-top: 41.67px;
+    margin-left: 78.67px;
+}
+input{
+    width: 327px;
+    height: 50px;
+    margin:40px 24px 16px 24px;
+    border-radius: 15px;
+    background-color: #665AF0;
+}
+#i4{
+    font-family: DM Sans;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 33px;
+    height: 20px;
+    margin: 0px 171px 29px 171px;  
+}
+.d7{
+    width: 375px;
+    height: 34px;
+  
+}
+.d7 img{
+    margin-top: 21px;
+    margin-left: 121px;
+    margin-right: 120px;
+    width: 134px;
+    height: 5px;
+}
+

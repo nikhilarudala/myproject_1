@@ -1,0 +1,159 @@
+body{
+    background-color:black;
+}
+.d1{
+    margin: auto;
+    background-color:white;
+    width: 375px;
+    height: 812px;
+    top: -1934px;
+    border-radius: 30px;
+}
+.d2{
+display: flex;
+flex-direction: row;
+width: 343px;
+height: 18px;
+margin-left: 16px;
+justify-content: space-between;
+padding-top: 16px;
+}
+.d2 p{
+    width: 35.06px;
+    height: 18px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.d2 ul{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+nav li{
+    list-style: none;
+    display: inline-block;
+}
+.d3{
+    width: 375px;
+height: 60px;
+margin-top: 8px;
+margin-bottom: 12px;
+display: flex;
+flex-direction: row;
+
+}
+.d3 h3{
+    width: 95px;
+height: 28px;
+font-family: DM Sans;
+font-size: 24px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: center;
+margin: 16px 140px 16px 0px;
+
+}
+.d3 img{
+    width: 24px;
+height: 24px;
+margin: 18px 44px 18px 24px;
+
+}
+.d4{
+    width: 375px;
+    height: 8px;
+    background-color:#EEF0F3;
+}
+.d5{
+    width: 375px;
+    height: 111px;
+
+}
+.d6{
+    display: flex;
+    flex-direction: row;
+}
+.d6 h4{
+margin: 16px 170px 12px 24px;
+font-family: DM Sans;
+font-size: 18px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+width: 117px;
+height: 28px;
+
+}
+#i1{
+    width: 40px;
+height: 24px;
+border-radius: 99px;
+background-color: #34C759;
+margin: 18px 24px 14px 0px ;
+}
+#i1 div{
+    width: 21.18px;
+height: 20.9px;
+background-color: white;
+margin: 1.55px 1.57px 1.55px 17.25px;
+border-radius: 100px;
+}
+#i2{
+    width: 327px;
+    margin: 0px 24px 0px 24px;
+height: 1px;
+background-color: #E8E7E7;
+
+}
+.d6 img{
+    width: 16px;
+    height: 16px;
+    margin: 17px 24px 21px 0px;
+    
+}
+#i11{
+    width: 24px;
+    height: 24px;
+    margin: 20px 71px 13px 34px;
+}
+ #i12{
+    width: 24px;
+    height: 24px;
+    margin: 20px 70px 13px 0px;
+}
+ #i13{
+    width: 24px;
+    height: 24px;
+    margin: 20px 71px 13px 0px;
+}
+ #i14{
+    width: 24px;
+    height: 24px;
+    margin: 20px 35px 13px 0px;
+}
+#j{
+        width:134px;
+        height:5px;
+        margin:0px 120px 8px 121px;
+        background-color: white;
+}
+
+#l{
+    width: 375px;
+    height: 390px;
+    background-color: #EEF0F3;
+}
+#p{
+    width: 375px;
+    height: 70px;
+}
+a:hover{
+    color: red;
+}
+a:link{
+ color: blue;
+}
+a{
+    text-decoration: none;
+}

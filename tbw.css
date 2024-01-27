@@ -1,0 +1,283 @@
+body{
+    background-color:black;
+}
+.d1{
+    background-color:white;
+    width: 375px;
+    height: 812px;
+    top: -1934px;
+    border-radius: 30px;
+    margin: auto;
+}
+.d2{
+display: flex;
+flex-direction: row;
+width: 343px;
+height: 18px;
+margin-left: 16px;
+justify-content: space-between;
+padding-top: 16px;
+}
+.d2 p{
+    width: 35.06px;
+    height: 18px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.d2 ul{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+nav li{
+    list-style: none;
+    display: inline-block;
+}
+.d3{
+    width: 375px;
+height: 60px;
+margin-top: 8px;
+margin-bottom: 12px;
+display: flex;
+flex-direction: row;
+
+}
+.d3 h3{
+    width: 95px;
+height: 28px;
+font-family: DM Sans;
+font-size: 24px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: center;
+margin: 16px 140px 16px 0px;
+
+}
+.d3 img{
+    width: 24px;
+height: 24px;
+margin: 18px 44px 18px 24px;
+
+}
+a:hover{
+    color: red;
+}
+a:link{
+ color: blue;
+}
+a{
+    text-decoration: none;
+}
+.d4{
+    width: 375px;
+    height: 8px;
+    background-color:#EEF0F3;
+}
+.d5{
+    display: flex;
+    flex-direction: row;
+}
+#i1{
+    width: 54px;
+height: 54px;
+border-radius: 60px;
+margin: 12px 16px 12px 24px;
+}
+#i2{
+width: 80px;
+height: 24px;
+margin: 16px 161px 2px 0px;
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+#i3{
+width: 96px;
+height: 20px;
+margin: 0px 145px 16px 0px;
+font-family: DM Sans;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+#i4{
+    width: 16px;
+    height: 16px;
+    margin: 31px 24px 31px 0px;
+}
+.d6{
+    width: 375px;
+    height: 84px;
+    
+}
+.d6 h4{
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+width: 205;
+height: 28px;
+margin: 0px 146px 0px 24px;
+padding-top: 12px;
+}
+#p1{
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+width: 77px;
+height: 24px;
+margin: 8px 8px 0px 24px;
+}
+#p2{
+    width: 1px;
+    height: 2px;
+    margin: 10px 265px 0px 0px;
+}
+.d7{
+    width: 327px;
+    height: 1px;
+    margin: 0px 24px 12px 24px;
+    background-color: blue;
+}
+.d8{
+    width: 375px;
+    height: 84px;
+    
+}
+.d8 h4{
+width:144px;
+height: 28px;
+padding-top: 12px;
+margin: 0px 207px 8px 24px;
+font-family: DM Sans;
+font-size: 18px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+}
+.d8 p{
+font-family: DM Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+width: 105px;
+height: 24px;
+margin: 0px 246px 0px 24px;
+}
+.d9{
+    width: 375px;
+    height: 147px;
+
+}
+.d9 h4{
+width: 129px;
+height: 28px;
+margin: 0px 222px 0px 24px;
+padding-top: 12px;
+font-family: DM Sans;
+font-size: 18px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+#i5{
+    width: 80px;
+height: 80px;
+border-radius: 10px;
+opacity: 0.1px;
+background-color: #EB5A5A;
+margin: 12px 20px 15px 24px;
+}
+#i6{
+    width: 80px;
+height: 80px;
+border-radius: 10px;
+opacity: 0.1px;
+background-color:#665AF0;
+margin: 12px 20px 15px 0px;
+}
+#i7{
+    width: 80px;
+height: 80px;
+border-radius: 10px;
+opacity: 0.1px;
+background-color: #64FCD9;
+margin: 12px 20px 15px 0px;
+}
+#i8{
+    width: 80px;
+height: 80px;
+border-radius: 10px;
+opacity: 0.1px;
+background-color: #FF565E;
+margin: 12px 0px 15px 0px;
+}
+.d10{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 0.6fr;
+    grid-template-rows: 1fr;
+    overflow: hidden;
+}
+#i9{
+    width: 50px;
+    height: 54px;
+    border-radius: 10px;
+    margin: 48px 0px 0px 32px;
+    background-color: white;
+    position: absolute;
+}
+#i10{
+    width: 327px;
+height: 70px;
+background-color: #665AF0;
+border-radius: 15px;
+margin: 40px 24px 93px 24px;
+}
+#i9 img{
+    width: 23.25px;
+height: 23.25px;
+margin: 15.38px 13.38px 15.38px 13.37px;
+}
+
+#i11{
+    width: 24px;
+    height: 24px;
+    margin: 20px 71px 13px 34px;
+}
+ #i12{
+    width: 24px;
+    height: 24px;
+    margin: 20px 70px 13px 0px;
+}
+ #i13{
+    width: 24px;
+    height: 24px;
+    margin: 20px 71px 13px 0px;
+}
+ #i14{
+    width: 24px;
+    height: 24px;
+    margin: 20px 35px 13px 0px;
+}
+#j{
+        width:134px;
+        height:5px;
+        margin:0px 120px 8px 121px;
+}
